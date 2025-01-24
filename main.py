@@ -1,6 +1,6 @@
 
 import torch
-from transformers import pipelinefrom 
+from transformers import pipeline
 from typing import Final
 from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, ContextTypes, filters
